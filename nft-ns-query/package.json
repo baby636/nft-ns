@@ -11,8 +11,8 @@
     "@oclif/command": "^1.8.0",
     "@oclif/config": "^1.17.0",
     "@oclif/plugin-help": "^3.2.0",
-    "@psf/bch-js": "^3.5.5",
-    "axios": "^0.20.0",
+    "@psf/bch-js": "^4.5.2",
+    "axios": "^0.21.3",
     "cli-ux": "^5.5.0"
   },
   "devDependencies": {
